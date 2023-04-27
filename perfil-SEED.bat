@@ -1,0 +1,1 @@
+netsh wlan add profile "perfil-SEED.xml"
